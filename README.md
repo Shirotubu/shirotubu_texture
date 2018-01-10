@@ -26,4 +26,4 @@ texture size:32*32
 第１弾作成時に要望があったので個別で製作。  
 リンゴがミカンに変わります。  
 単体だけでもリソースパックに追加可能です。  
-!https://gyazo.com/c916553748753b2fd92649235dbbb1bc.png
+<img src="https://gyazo.com/c916553748753b2fd92649235dbbb1bc.png" title="ミカンパッチ(12/31現在)">
