@@ -1,6 +1,6 @@
 # shirotubu_texture_beta
 
-minecraft texture: ~1.10.2
+minecraft texture: ~1.10.2	
 texture size:32*32
 
 注意：このファイルは開発中のものです。変更が頻繁に行われる可能性があります。
