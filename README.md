@@ -1,7 +1,7 @@
 # shirotubu_texture_beta
 
-minecraft texture: ~1.10.2  
-texture size:32*32  
+minecraft texture: ~~-1.10.2~~  1.16.x移行中
+texture size:ブロック8x8（予定）　アイテムチップ:32x32  
   
 注意：このファイルは開発中のものです。変更が頻繁に行われる可能性があります。  
 !!!This file is in development!!!  
@@ -12,7 +12,7 @@ texture size:32*32
 本体テクスチャです。  
 整地＆建築テクスチャ向けに製作していく予定です。  
   
----第１弾更新予定---  
+---第１弾更新(-1.10.2)---
 ・作業台  
 ・かまど  
 ・鉱石系のブロック（グロウストーン、砂利、ネザークォーツも含む）  
